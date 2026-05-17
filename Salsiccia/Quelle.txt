@@ -1,0 +1,16 @@
+Categoría,Título,Link
+Charcutería / Embutidos generales,"Charcuterie: The Craft of Salting, Smoking, and Curing",https://en.wikipedia.org/wiki/Charcuterie:_The_Craft_of_Salting,_Smoking,_and_Curing
+Charcutería / Embutidos generales,"Home Production of Quality Meats and Sausages",https://www.goodreads.com/book/show/13608808-home-production-of-quality-meats-and-sausages
+Charcutería / Embutidos generales,"Bruce Aidells' Complete Sausage Book",https://www.goodreads.com/book/show/1396406.Bruce_Aidells_Complete_Sausage_Book
+Charcutería / Embutidos generales,"The Art of Charcuterie",https://www.goodreads.com/book/show/30753813-the-art-of-charcuterie
+Charcutería / Embutidos generales,"Great Sausage Recipes and Meat Curing",https://www.goodreads.com/book/show/53409.Great_Sausage_Recipes_and_Meat_Curing
+Italia / Salumi italiani,"Salumi: The Craft of Italian Dry Curing",https://www.goodreads.com/book/show/15811544-salumi
+Italia / Salumi italiani,"The Art of Making Fermented Sausages",https://www.goodreads.com/book/show/6392915-the-art-of-making-fermented-sausages
+Italia / Salumi italiani,"Guida Salumi d’Italia 2025",https://www.kulturkaufhaus.de/de/detail/ISBN-9788893970488/Sorrentino-Sabtino/Guida-Salumi-dItalia-2025
+Italia / Salumi italiani,"I Salumi d’Italia",https://www.unilibro.it/libro/i-salumi-d-italia-2020/9788836150335
+Italia / Salumi italiani,"La Grande Salumeria Italiana",https://www.francoangeli.it/Libro?id=24380
+Italia / Salumi italiani,"Charcuterie and French Pork Cookery",https://en.wikipedia.org/wiki/Jane_Grigson
+Alemania / Wurst alemana,"German Sausage Traditions",https://www.goodreads.com/search?q=German+Sausage+Traditions
+Fermentación / Encurtidos,"The Art of Fermentation",https://en.wikipedia.org/wiki/The_Art_of_Fermentation
+Referencia original,"World Cheese Book",https://www.dk.com/us/book/9780756690434-world-cheese-book/
+Atlas mundial,"PlanetWurst — The World Atlas of Sausages",https://planetwurst.com
